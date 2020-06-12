@@ -1,0 +1,10 @@
+D:\Lập trình mạng\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe.config
+D:\Lập trình mạng\Chat_Server\Chat_Server\bin\Debug\Chat_Server.exe
+D:\Lập trình mạng\Chat_Server\Chat_Server\bin\Debug\Chat_Server.pdb
+D:\Lập trình mạng\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojAssemblyReference.cache
+D:\Lập trình mạng\Chat_Server\Chat_Server\obj\Debug\Chat_Server.Properties.Resources.resources
+D:\Lập trình mạng\Chat_Server\Chat_Server\obj\Debug\Chat_Server.Server.resources
+D:\Lập trình mạng\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+D:\Lập trình mạng\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\Chat_Server\Chat_Server\obj\Debug\Chat_Server.exe
+D:\Lập trình mạng\Chat_Server\Chat_Server\obj\Debug\Chat_Server.pdb
